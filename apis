@@ -1,0 +1,2 @@
+#https://developer.shodan.io/api
+curl -X GET "https://api.shodan.io/shodan/host/8.8.8.8?key=S5rEhPJIgTpsaBsA3W4q8Bf53NOB2ekd"
