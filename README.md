@@ -2,7 +2,7 @@
 
 *a simple github link constructor with broken link dorks*
 
->prerequisite
+ **prerequisite**
 
 `chrome`[bulkurl extension](https://chrome.google.com/webstore/detail/bulk-url-opener-extension/hgenngnjgfkdggambccohomebieocekm?hl=en)
 
